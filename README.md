@@ -7,7 +7,7 @@ This project was built to demonstrate proficiency in modern UI design principles
 
 ### 🔗 Live Links
 *   [**View Interactive Figma Prototype**](https://www.figma.com/proto/XiLxwIc0f6BdpHsUla3fFa/Assignment-7?node-id=0-1&t=XQmUBPPJBTVOMB83-1)
-*   [**Download UI/UX Design PDF**]()
+*   [**Download UI/UX Design PDF**](https://github.com/AnjanaSruthiR/High-Fidelity-Figma-Prototype/blob/main/VibeCheck.pdf)
 
 ---
 
